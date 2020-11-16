@@ -2,3 +2,4 @@ This is text file 1
 This is the second line in my file
 This is Annes change
 And I am D
+This is Anne adding a line at the end of the text File1
